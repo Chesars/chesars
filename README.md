@@ -5,7 +5,7 @@
 
 🚀 I’ve built over 50 WordPress websites for small and medium-sized businesses (both local and international), and I'm completing an advanced Full Stack bootcamp at **Soy Henry**, backed by Y Combinator.
 
- I’ve also studied how to use AI and LLMs for building smart solutions, integrating APIs and real-world tools to solve modern business problems.
+ I’ve also studied how to use AI and LLMs for building smart solutions, integrating APIs and tools to solve modern business problems.
 
 ---
 
