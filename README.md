@@ -9,6 +9,9 @@
 
 ---
 
+📞 Phone: 3815182035
+📧 Email: cesarponce19544@gmail.com
+
 ## 🛠️ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
