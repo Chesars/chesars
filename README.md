@@ -12,6 +12,8 @@
 
 📞 Phone: +54 9 3815182035
 📧 Email: cesarponce19544@gmail.com
+🔗 https://www.linkedin.com/in/cesar-augusto-garcía-b04432284/
+
 
 ## 🛠️ Tech Stack
 
