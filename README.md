@@ -1,19 +1,6 @@
-👋 Hi, I’m Cesar Garcia!
+Hi, I’m Cesar Garcia!
 
-🎯 I’m a Full Stack Developer with strong experience in building web applications using React, Next.js, Node.js, TypeScript, PostgreSQL, and MongoDB.
-
-💻 I’ve completed over 50 web projects, including custom websites, admin panels, and full-stack platforms. I’m currently refining my skills through an advanced Full Stack bootcamp at Soy Henry (Y Combinator-backed).
-
-🧠 Lately, I’ve been working on projects involving AI integration, RESTful APIs, and backend architecture using NestJS, Docker, and Kubernetes.
-
-🚀 I enjoy taking ownership of features end-to-end — from clean UI implementation to backend logic and scalable database design.
-
----
-
-📞 Phone: +54 9 3815182035
-📧 Email: cesarponce19544@gmail.com
-🔗 https://www.linkedin.com/in/cesar-augusto-garcía-b04432284/
-
+**Software Engineer** | Full-Stack (Node.js · React · Python) | AI & DevOps Enthusiast
 
 ## 🛠️ Tech Stack
 
