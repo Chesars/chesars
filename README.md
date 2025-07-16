@@ -1,6 +1,6 @@
 Hi, I’m Cesar Garcia!
 
-**Software Engineer** | Full-Stack (Node.js · React · Python) | AI & DevOps Enthusiast
+**Software Engineer** | Designer and Full-Stack Developer | AI & DevOps Enthusiast
 
 ## 🛠️ Tech Stack
 
@@ -11,14 +11,3 @@ Hi, I’m Cesar Garcia!
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-
----
-
-## 📌 Interests
-
-- 🚀 Backend development and API architecture
--  🛠️ AI/LLMs for business solutions
-- 🌐 Web performance and UX
-- 🧩 Bridging marketing strategy with code
-
----
