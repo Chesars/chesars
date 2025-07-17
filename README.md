@@ -1,8 +1,6 @@
 Hi, I’m Cesar Garcia!
 
 I’m a designer and full-stack developer, passionate about soccer and drawing
- **Software Engineer** | Designer and Full-Stack Developer | AI & DevOps Enthusiast
-
 
 ## 🛠️ Tech Stack
 
