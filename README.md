@@ -1,4 +1,6 @@
-### Hey there! 👋 I am Cesar
+### Hey there! 👋 I'm Cesar
 
+Hi, I'm Cesar — a hobbyist designer & developer, passionate about soccer.
 
-I’m a designer and full-stack developer, passionate about soccer and drawing
+- 🔭 Just building things on the web.
+- 📫 Working on something cool? Email me: [Cesar Garcia](mailto:cesargarcialeoc@gmail.com)
