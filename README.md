@@ -1,4 +1,4 @@
-### Hey there! 👋 I'm Cesar
+### Hey there! 👋
 
 Hi, I'm Cesar — a hobbyist designer & developer, passionate about soccer.
 
